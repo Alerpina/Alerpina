@@ -15,7 +15,7 @@ Curso **Tecnologia em Defesa Cibernética na FIAP** (conclusão em 2027), e por 
 
 ### Projeto em destaque
 
-**[netauto-lab](https://github.com/Alerpina/netlab/tree/main/labs/netauto-lab)** · **[dashboard ao vivo](https://mintyacht3054.grafana.net/public-dashboards/1f82d908e9c546f48ff8ba3c3440b882)**
+**[netauto-lab](https://github.com/Alerpina/netlab/tree/main/labs/netauto-lab)** · **[dashboard ao vivo]([https://mintyacht3054.grafana.net/public-dashboards/1f82d908e9c546f48ff8ba3c3440b882](https://mintyacht3054.grafana.net/public-dashboards/30342df6b63a4ead85fbb846915b5898))**
 
 Automação de rede no fluxo usado em data center, rodando num fabric spine-leaf de Nokia SR Linux:
 
